@@ -49,6 +49,7 @@
     button:hover { background: #004080; }
     footer { text-align: center; padding: 15px; background: #0a66c2; color: white; margin-top: 20px; }
   </style>
+  <meta name="google-adsense-account" content="ca-pub-8648198938608752">
 </head>
 <body>
 
